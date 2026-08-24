@@ -14,6 +14,9 @@ An end-to-end **RFM (Recency, Frequency, Monetary)** customer-segmentation proje
 
 !\[Overview](dashboard/Overview.png)
 
+![Overview](dashboard/Overview.png)
+![Deep Dive](dashboard/Deep_Dive.png)
+
 
 
 \*\*Customer Deep Dive — interactive exploration\*\*
