@@ -1,0 +1,25 @@
+# Data — download from Kaggle (see README)
+*.xlsx
+*.xls
+*.csv
+*.gz
+*.zip
+data/
+
+# Power BI temp
+*.pbix.tmp
+*~$*
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
