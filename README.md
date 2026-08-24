@@ -12,7 +12,6 @@ An end-to-end **RFM (Recency, Frequency, Monetary)** customer-segmentation proje
 
 \*\*Overview — segments, revenue concentration, and key insights\*\*
 
-!\[Overview](dashboard/Overview.png)
 
 ![Overview](dashboard/Overview.png)
 ![Deep Dive](dashboard/Deep_Dive.png)
@@ -21,7 +20,6 @@ An end-to-end **RFM (Recency, Frequency, Monetary)** customer-segmentation proje
 
 \*\*Customer Deep Dive — interactive exploration\*\*
 
-!\[Deep Dive](dashboard/Deep\_Dive.png)
 
 
 
