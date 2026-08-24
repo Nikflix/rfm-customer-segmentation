@@ -3,10 +3,10 @@
 An end-to-end **RFM (Recency, Frequency, Monetary)** customer-segmentation project on a UK online-retail dataset: clean the raw transactions in Python, score every customer, classify them into **10 behavioural segments**, then build a SQL analytics layer and an **interactive Power BI dashboard** that turns the segments into concrete retention actions.
 
 >  **Stack:** Python (pandas) · SQL (MySQL) · Power BI
-> **Data:** \[Online Retail II](https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset) — UK gift retailer, \~1M invoice line-items · \*\*108K customers · $10.3M revenue\*\*
-> **Question:** \*Who are our most valuable customers, who is slipping away, and where should retention effort go?\*
+> 
+> **Data:** \[Online Retail II](https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset) — UK gift retailer, \~1M invoice line-items · **108K customers · $10.3M revenue**
+> **Question:**: Who are our most valuable customers, who is slipping away, and where should retention effort go?
 
-\---
 
 ## Dashboard
 
